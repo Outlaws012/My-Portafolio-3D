@@ -42,7 +42,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]"
+        className="mt-4 text-secondary text-[17px] leading-[30px]"
       >
         A Jr Software Developer with experience in JS, HTML, CSS and frameworks such as React.js, 
         Typescript.js, Node.js and Three.js is a programming professional who is at the beginning of 
